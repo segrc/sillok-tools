@@ -1,9 +1,8 @@
 ﻿# 실록 도우미 - 엑셀 연결 프로그램 등록 (현재 사용자만, 관리자 권한 필요 없음)
 
 # 이 연결 프로그램을 쓸 수 있는 확장 프로그램 ID
-#  - 크롬 웹스토어판 ID가 정해지면 아래 'STORE_ID' 자리에 넣으세요 (영문 소문자 32자)
 $extensionIds = @(
-  'STORE_ID',                          # 크롬 웹스토어판
+  'aboehgldkknmllinigckchabkneakkpa',     # 크롬 웹스토어판
   'iabhcmaekhaknmalhibifpfhjdlobolm'     # 직접 로드한 개발용
 )
 
