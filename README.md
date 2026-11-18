@@ -12,7 +12,7 @@
 ## 설치하기
 
 ### ① 확장 프로그램 설치
-**[크롬 웹스토어에서 설치하기](#)** ← (승인 후 링크 추가 예정)
+**[크롬 웹스토어에서 설치하기](https://chromewebstore.google.com/detail/aboehgldkknmllinigckchabkneakkpa)**
 
 복사와 키보드 이동은 여기까지만 해도 바로 쓸 수 있어요.
 
